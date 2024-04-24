@@ -1,6 +1,6 @@
 -  Hi, I’m @KTaisei
--  I’m interested in Python,C#,Rust
--  I’m currently learning Django(Python)
+-  I’m interested in Python,C#,Rust,Ruby
+-  I’m currently learning Node.js,Next.js.Ruby
 -  I’m looking to collaborate on ...
 -  How to reach me ...
 

@@ -1,8 +1,13 @@
--  #Hi, I’m @KTaisei
--  ##I’m interested in Python,C#,Rust,Ruby,javascript
--  ##I’m currently learning Node.js,Next.js,Ruby
+# Hi, I’m Kawakami Taisei
+### I'm not very very strong programer
+### I useally program of web
+# My skil
+![](https://skillicons.dev/icons?i=html,css,js,python,astro,flutter,firebase,twitter)
+# About me
+![](https://github-readme-stats.vercel.app/api/top-langs?username=KTaisei&show_icons=true&locale=en&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTaisei&show_icons=true&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KTaisei)](https://github.com/ryo-ma/github-profile-trophy)
 
--  ![](https://github-readme-stats.vercel.app/api/top-langs?username=KTaisei&show_icons=true&locale=en&layout=compact)
 
 <!---
 KTaisei/KTaisei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

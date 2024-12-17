@@ -1,7 +1,7 @@
 # Hi, I’m Kawakami Taisei
 ### I'm not very very strong programer
 ### I useally program of web
-# My skil
+# My skill
 ![](https://skillicons.dev/icons?i=html,css,js,python,astro,flutter,firebase,twitter)
 # About me
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KTaisei&show_icons=true&locale=en&layout=compact)

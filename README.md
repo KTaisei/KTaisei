@@ -3,7 +3,7 @@
 <h3 align="center">A Student Engineer from Japan 🇯🇵</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering+Student;React+%7C+Flutter+%7C+Python;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+My+name+is+Taisei+Kawakami.;React+%7C+Flutter+%7C+Python;Always+learning+new+things!" />
 </p>
 
 ---

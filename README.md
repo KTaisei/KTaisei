@@ -10,8 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently learning  **React**, **AI-related tech**, and **Flutter**
-- 📝 I write sometimes at [My Blog](https://ktaisei.xsrv.jp/blog/)
+- 🎓 I'm currently learning  **React**, **AI-related tech** .
+- 📝 I write sometimes at [My Blog](https://ktaisei.github.io/blog/)
+- I have a [portfolio site](https://ktaisei.github.io/official/)
 
 ---
 

@@ -1,58 +1,55 @@
-<!-- プロフィールタイトル -->
-<h1 align="center">Hi there , I'm Taisei</h1>
-<h3 align="center">A Student Engineer from Japan 🇯🇵</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+My+name+is+Taisei+Kawakami.;React+%7C+Python;Always+learning+new+things!" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 I'm currently learning  **React**, **AI-related tech** .
-- 📝 I write sometimes at [My Blog](https://ktaisei.github.io/blog/)
-- I have a [portfolio site](https://ktaisei.github.io/official/)
-
----
-
-## 🔧 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,py,html,css,tailwind,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KTaisei&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KTaisei&theme=tokyonight" />
+
+# Hi, I'm Taisei.
+
+Student Developer based in Japan.
+
+Interested in building thoughtful software,  
+exploring AI, and turning ideas into real products.
+
+[Portfolio](https://ktaisei.github.io/official/) · [Blog](https://ktaisei.github.io/blog/) · [X](https://x.com/Yasumasascience)
+
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+### About me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KTaisei&theme=tokyonight&column=7" />
-</p>
+I'm a university student studying computer science in Japan.
 
----
+I enjoy exploring new technologies and building things that make everyday life a little better.
 
-## 🌐 Connect with Me
+- Currently exploring **AI, Web Development, and Security**
+- Interested in **Human-centered Software & Automation**
+- Learning through building, experimenting, and sharing
 
-<p align="center">
-  <a href="https://x.com/Yasumasascience"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://ktaisei.xsrv.jp/official"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="mathlike.science@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### Tech stack
 
----
+**Languages**
 
-## 📈 Visitor Count
+![Languages](https://skillicons.dev/icons?i=ts,js,py,dart,c,html,css&theme=dark)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KTaisei&label=Profile+Views&color=blue&style=flat" alt="KTaisei" />
-</p>
+**Frameworks & Tools**
+
+![Tools](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,git,github,vscode&theme=dark)
+
+### Selected projects
+
+| Project | Description |
+| :--- | :--- |
+| [KnowledgeGraph](https://github.com/KTaisei/KnowledgeGraph) | Exploring knowledge graphs and adaptive learning. |
+| [stophone](https://github.com/KTaisei/stophone) | A mobile app designed to encourage safer smartphone habits. |
+| [LINE Kakeibo](https://github.com/KTaisei/LINE_kakeibo) | A personal finance tracker integrated with LINE. |
+| [Portfolio](https://github.com/KTaisei/official) | My personal website and projects. |
+
+### Elsewhere
+
+[Website](https://ktaisei.github.io/official/) · [Blog](https://ktaisei.github.io/blog/) · [X / Twitter](https://x.com/Yasumasascience) · [Email](mailto:mathlike.science@gmail.com)
+
+<br>
+
+<div align="center">
+  <sub>Always curious. Always building.</sub>
+</div>
+

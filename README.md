@@ -8,7 +8,7 @@ Student Developer based in Japan.
 Interested in building thoughtful software,  
 exploring AI, and turning ideas into real products.
 
-[Portfolio](https://ktaisei.github.io/official/) · [Blog](https://ktaisei.github.io/blog/) · [X](https://x.com/Yasumasascience)
+[Portfolio](https://ktaisei.github.io/official/) · [Blog](https://ktaisei.github.io/blog/) · [X](https://x.com/taisei_kawakami)
 
 </div>
 
